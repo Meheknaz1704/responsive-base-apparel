@@ -35,11 +35,12 @@ body{
     height: 39px;
     padding-left: 17px;
     border-radius: 39px;
- 
     border-color: #f080808f;
     margin-left:25px;
     margin-top: 15px;
 }
+
+
 button{
     width: 50px;
     height: 39px;
